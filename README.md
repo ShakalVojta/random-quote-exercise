@@ -1,1 +1,1 @@
-# random-quote-exercise
+# Random quote exercise
